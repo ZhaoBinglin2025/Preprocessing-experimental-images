@@ -3,7 +3,7 @@
 
 I found it really difficult to process pictures in unity, it seemed that unity is really not expertize in it.
 
-So, be honest and preprocess all the pictures before importing unity! This simple lesson took me a hole afternoon to figure out.
+So, be honest and preprocess all the pictures before importing unity! This simple lesson took me a whole afternoon to figure out.
 
 **What is this for? (If you are new to experimental picture preprocessing)**
 
