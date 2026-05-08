@@ -8,6 +8,7 @@ When we are going to conduct a experiment, it is normal to use hundreds or even 
 And we demand all pictures to keep a same size, it is a fundamental rule in conducting an experiment.
 So here it is, a code to identify effective pixels and cut them,and then expand them into squares.
 By this process, you will see your pictures from this:
+!(./2a_origion.png)
 to this:
 
 **How to do it?**
