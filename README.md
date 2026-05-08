@@ -15,11 +15,11 @@ So here it is, a code to identify effective pixels and cut them,and then expand 
 
 By this process, you will see your pictures from this:
 
-![origion](Before.jpg)
+![before](Before.jpg)
 
 to this:
 
 ![after](After.jpg)  
 
-Please remember, your pictures should all have transparent backgrounds.
+**!! Please remember, your pictures should all have transparent backgrounds.**
 
